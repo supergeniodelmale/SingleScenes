@@ -1,6 +1,6 @@
 # 🎬 SingleScenes: A Simple Benchmark for LLM Film Script Understanding and Generation
 
-Welcome to the **SingleScenes** repository! This dataset is designed to serve as a simple benchmark for evaluating the capabilities of Large Language Models (LLMs) in film script generation and understanding. **SingleScenes** consists of a collection of **film script scenes** partitioned from film scripts from The Internet Movie Script Database paired with their corresponding **summaries**, offering a structured framework for training and testing LLMs on both script comprehension and generative tasks.
+Welcome to the **SingleScenes** repository! This dataset is designed to serve as a simple benchmark for evaluating the capabilities of Large Language Models in film script generation and understanding. **SingleScenes** consists of a collection of **film script scenes** partitioned from film scripts from The Internet Movie Script Database paired with their corresponding **summaries**, offering a structured framework for training and testing LLMs on both script comprehension and generative tasks.
 
 ## 🏆 Leaderboard
 

@@ -15,21 +15,21 @@ We encourage you to participate in the **SingleScenes** benchmarking challenge! 
 | Rank | Model/TMethod      | Single Scene Generation (Mistral Instruct) |
 |------|--------------------|--------------------------------------------|
 | 1    | Mistral Instruct   | TBA                                        |
-| 2    | gpt-40             | TBA                                        |
+| 2    | GPT-4o             | TBA                                        |
 
 ### **Inception** Leaderboard:
 
 | Rank | Model/TMethod      | Single Scene Generation (Mistral Instruct) |
 |------|--------------------|--------------------------------------------|
 | 1    | Mistral Instruct   | TBA                                        |
-| 2    | gpt-40             | TBA                                        |
+| 2    | GPT-4o             | TBA                                        |
 
 ### **The Shawshank Redemption** Leaderboard:
 
 | Rank | Model/TMethod      | Single Scene Generation (Mistral Instruct) |
 |------|--------------------|--------------------------------------------|
 | 1    | Mistral Instruct   | TBA                                        |
-| 2    | gpt-40             | TBA                                        |
+| 2    | GPT-4o             | TBA                                        |
 
 ## 📏 Metrics
 

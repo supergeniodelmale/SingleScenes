@@ -57,10 +57,7 @@ To evaluate the quality of model-generated scenes, we use a **pairwise compariso
 
 4. **Dataset-Wide Evaluation**:
    - This process is repeated for all scene summaries in the dataset.
-   - The total points accumulated by the generated scenes are summed up and compared against the total points for the original scenes:
-     \[
-     \text{Score} = \frac{\text{Points Awarded to Generated Scenes}}{\text{Total Comparisons}} \times 100
-     \]
+   - The total points accumulated by the generated scenes are summed up and compared against the total points for the original scenes.
    - This results in a **percentage score** for the model, representing the proportion of comparisons where the generated scenes were preferred.
 
 5. **Performance Interpretation**:

@@ -69,7 +69,6 @@ To evaluate the quality of model-generated scenes, we use a **pairwise compariso
 
 - **Film Script Scenes**: Each entry includes a detailed scene from a film script, featuring dialogue, action descriptions, and other narrative elements.
 - **Summaries**: Every scene is paired with a concise summary, capturing the key points and thematic essence of the scene.
-- **Use Case**: Ideal for training LLMs to generate scenes from summaries or to summarize a scene effectively, testing both generative and understanding capabilities.
 
 ## ⚙️ Usage
 

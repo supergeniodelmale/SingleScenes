@@ -53,7 +53,7 @@ To evaluate the quality of model-generated scenes, we use a **pairwise compariso
 
 3. **Scoring**:
    - **1 Point** is awarded to the method (original or generated) deemed **better** in each pairwise comparison.
-   - No points are awarded for ties.
+   - There cannot be ties.
 
 4. **Dataset-Wide Evaluation**:
    - This process is repeated for all scene summaries in the dataset.
